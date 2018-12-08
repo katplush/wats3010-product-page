@@ -1,8 +1,20 @@
 /* Styles for Product Page Customization */
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
-body {
+/* body {
     padding-top: 30px;
     padding-bottom: 20px;
-    color: green;
+} */
+
+.big-banner {
+    text-align: center;
+    padding: 40px;
+    background-image: url(images/keys_wallet.jpeg);
+    background-size: cover;
+}
+
+/* Video Section */
+#vid {
+    padding: 100px 0px;
+    background: darkgray;
 }
