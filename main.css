@@ -9,7 +9,7 @@
 #tagline {
     margin-top: 50px;
     text-align: center;
-    padding: 40px;
+    padding: 200px;
     background-image: url(images/keys_wallet_prom.jpeg);
     background-size: cover;
 }
@@ -26,29 +26,41 @@
 
 /* Video Section */
 #vid {
-    padding: 100px 0px;
+    padding: 100px 40px;
     background: #F7F7F7;
 }
 
-#uses {
-    padding: 40px;
+iframe {
+    padding-left: 50px;
 }
+
+
 
 .marketing {
     text-align: center;
+    padding-bottom: 40px;
+}
+
+.rounded-circle {
+    margin-bottom: 30px;
 }
 
 .featurette-divider {
     margin: 20px;
-    padding: 40px;
+    padding: 20px;
+}
+
+.featurette {
+    margin: auto;
+    padding: 60px;
 }
 
 
 #social-media .fa {
+    text-align: center;
     padding: 40px;
     font-size: 30px;
     width: 30px;
-    text-align: center;
     text-decoration: none;
     border-radius: 50%;
     color: grey
