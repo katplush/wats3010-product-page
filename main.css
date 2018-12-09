@@ -6,15 +6,56 @@
     padding-bottom: 20px;
 } */
 
-.big-banner {
+#tagline {
+    margin-top: 50px;
     text-align: center;
     padding: 40px;
-    background-image: url(images/keys_wallet.jpeg);
+    background-image: url(images/keys_wallet_prom.jpeg);
     background-size: cover;
 }
+
+#tagline .jumbotron {
+    border-radius: 20px;
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.75);
+    max-width: 800px;
+    margin: auto;
+}
+
+
 
 /* Video Section */
 #vid {
     padding: 100px 0px;
-    background: darkgray;
+    background: #F7F7F7;
 }
+
+#uses {
+    padding: 40px;
+}
+
+.marketing {
+    text-align: center;
+}
+
+.featurette-divider {
+    margin: 20px;
+    padding: 40px;
+}
+
+
+#social-media .fa {
+    padding: 40px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: grey
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+}
+
+
