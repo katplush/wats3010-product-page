@@ -19,19 +19,16 @@
     margin: auto;
 }
 
-
-
 /* Video Section */
 .vid {
     padding: 100px 40px;
     background: #F7F7F7;
 }
 
+
 iframe {
     padding-left: 50px;
 }
-
-
 
 .marketing {
     text-align: center;
@@ -47,11 +44,15 @@ iframe {
     padding: 20px;
 }
 
+img {
+    max-width: 100%;
+}
+
+
 .featurette {
     margin: auto;
     padding: 60px;
 }
-
 
 .social-media .fa {
     text-align: center;
