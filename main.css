@@ -1,12 +1,7 @@
 /* Styles for Product Page Customization */
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
-/* body {
-    padding-top: 30px;
-    padding-bottom: 20px;
-} */
-
-#tagline {
+.tagline {
     margin-top: 50px;
     padding: 50px;
     text-align: center;
@@ -16,7 +11,7 @@
     background-size: cover;
 }
 
-#tagline .jumbotron {
+.tagline .jumbotron {
     border-radius: 20px;
     padding: 40px;
     background-color: rgba(255, 255, 255, 0.75);
@@ -27,7 +22,7 @@
 
 
 /* Video Section */
-#vid {
+.vid {
     padding: 100px 40px;
     background: #F7F7F7;
 }
@@ -58,7 +53,7 @@ iframe {
 }
 
 
-#social-media .fa {
+.social-media .fa {
     text-align: center;
     padding: 40px;
     font-size: 30px;
@@ -68,7 +63,7 @@ iframe {
     color: grey
   }
 
-  .fa:hover {
+.fa:hover {
     opacity: 0.7;
 }
 
